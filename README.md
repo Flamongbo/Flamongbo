@@ -1,0 +1,3 @@
+- Hi, I’m @Flamongbo
+- I’m interested in coding
+- I’m currently a stundent and learning Python and C#
